@@ -30,7 +30,7 @@ nachzudenken.
 
 Das Spiel soll wie folgt aussehen:
 
-[GIF MIT FERTIGEM SPIEL]
+![GIF MIT FERTIGEM SPIEL](media/fertiges%20Spiel.gif)
 
 Das Spiel startet, indem zwei Calliopes angeschaltet werden und ein Mitspieler die B-Taste drückt. Daraufhin
 erscheint ein Ball und der Spielerbalken in der Mitte der Anzeigefläche dieses Spielers. Der Ball soll sich automatisch anfangen zu
@@ -55,7 +55,7 @@ Ziel der ersten Aufgabe ist das Anzeigen des Spielballs und eines Spielerbalkens
 Das ist eine relativ leichte Aufgabe. Nutzt hier die Zeit auch dafür, um euch mit der Online Entwicklungsumgebung vertraut zu machen.
 Welche Bausteine gibt es überhaupt? Wie funktioniert das zusammensetzen zu ersten Programmen? Welche Bausteine brauche ich?
 
-[GIF TEILAUFGABE 1]
+![GIF TEILAUFGABE 1](media/Teilaufgabe%201.gif)
 
 ## Aufgabe 2
 
@@ -65,7 +65,7 @@ der Balken nicht verschwinden soll, wenn ihr ihn zu oft nach rechts oder links v
 
 Ein Tipp zu Beginn: die Position des Balkens müsst ihr euch in einer Variable wie `balken_x` abspeichern.
 
-[GIF TEILAUFGABE 2]
+![GIF TEILAUFGABE 2](media/Teilaufgabe%202.gif)
 
 ## Aufgabe 3
 
@@ -77,14 +77,14 @@ das Verlieren oder Gewinnen des Spiels umsetzt. Baut das Spiel so, dass der Ball
 Bildschirms berührt die Richtung ändert, in die er sich bewegt. Das 'Gewinnen' und 'Verlieren' des Spiels bauen wir
 in den nächsten Aufgaben ein.
 
-[GIF TEILAUFGABE 3]
+![GIF TEILAUFGABE 3](media/Teilaufgabe%203.gif)
 
 ## Aufgabe 4
 
 Der Ball und der Spielerbalken sollen miteinander interagieren! Wenn der Ball den Spielerbalken berührt, soll er die Richtung
 ändern in die er sich bewegt.
 
-[GIF TEILAUFGABE4]
+![GIF TEILAUFGABE4](media/Teilaufgabe%204.gif)
 
 ## Aufgabe 5
 
@@ -102,7 +102,7 @@ den Balken nach rechts und links bewegen.
 
 Bei `status = 2` ist das Spiel verloren und das traurige Gesicht oder etwas anderes kann angezeigt werden.
 
-[GIF AUFGABE 5]
+![GIF AUFGABE 5](media/Teilaufgabe%205.gif)
 
 ## Aufgabe 6
 
@@ -113,7 +113,7 @@ Tipps bei dieser Aufgabe:
 - schaut euch die Bausteine im Abschnitt 'Funk' in der online Entwicklungsumgebung an. Diese Bausteine beschäftigen sich mit der Datenübertragung zwischen mehreren Calliopes
 - damit beide Calliope miteinander kommunizieren können, müssen sie in der gleichen Funkgruppe sein.
 
-[GIF AUFGABE 6]
+![GIF AUFGABE 6](media/Teilaufgabe%206.gif)
 
 ## Aufgabe 7
 
@@ -128,11 +128,11 @@ Auch hier wieder einige Tipps und Fragen, die euch weiterbringen, da diese Aufga
 Hier soll das Spiel (noch als Zwischenschritt) so funktionieren, dass wenn der Ball die untere Kante eines der
 Bildschirme berührt, beide Mitspieler verlieren und das traurige Gesicht auf beiden Bildschirmen angezeigt wird.
 
-[GIF AUFGABE 7]
+![GIF AUFGABE 7](media/Teilaufgabe%207.gif)
 
 ## Aufgabe 8 - Finale
 
 Das Spiel ist schon fast fertig! Es fehlt nur noch, dass man tatsächlich gewinnt, wenn der Ball die untere Kante des
 Gegners berührt und auf dem eigenen Bildschirm ein Smiley erscheint.
 
-[GIF AUFGABE 8]
+![GIF AUFGABE 8](media/Teilaufgabe%208.gif)
